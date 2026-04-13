@@ -31,7 +31,7 @@ Prioritize React, Git workflows, and deployment habits because they help show th
 
 ### Figure 1. Coursework exposure compared with common entry-level front-end job skills
 
-![ComparisonChart](UWB_vs_Frontend_Industry_Skills-SO_2025.png)
+![UWB_vs_Frontend_Industry_Skills-SO_2025.png](https://i.imgur.com/Yfx6Mex.png)
 
 *Source line: Created using job posting data collected from selected LinkedIn, Indeed, Built In Seattle, and Levels.fyi listings.[^3]*
 
