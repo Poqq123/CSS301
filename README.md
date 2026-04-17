@@ -4,7 +4,6 @@
 - [Purpose](#purpose)
 - [Build Portfolio Projects That Show Job Readiness](#build-portfolio-projects-that-show-job-readiness)
 - [Learn the Front-End Workflow Employers Expect](#learn-the-front-end-workflow-employers-expect)
-  - [Figure 1: Coursework exposure compared with common entry-level front-end job skills](#figure-1-coursework-exposure-compared-with-common-entry-level-front-end-job-skills)
 - [Gain Experience Before You Feel Fully Ready](#gain-experience-before-you-feel-fully-ready)
 - [Build Professional Visibility Early](#build-professional-visibility-early)
 - [Use Your Support Network Strategically](#use-your-support-network-strategically)
@@ -13,7 +12,7 @@
 
 ## Purpose
 
-Front-end software engineering requires more than completing required coursework and earning strong grades. You need visible proof that you can build usable interfaces, work with modern tools, and present your skills in ways employers can quickly evaluate. This graduation learning plan explains the best practices that prepare you to apply for front-end software engineering roles with stronger evidence of readiness. By following these practices before graduation, you can close the gap between classroom exposure and professional expectations.
+Front-end software engineering requires more than completing required coursework and earning strong grades. You need visible proof that you can build usable interfaces, work with modern tools, and present your skills in ways employers can quickly evaluate. This graduation learning plan explains the best practices that prepare you to apply for front-end software engineering role with stronger evidence of your capabilities. By following these practices before graduation, you can minimize the gap between classroom exposure and professional expectations.
 
 ## Build Portfolio Projects That Show Job Readiness
 
@@ -27,19 +26,19 @@ Choose one or two projects that match the kind of front-end work you want to pur
 
 Build familiarity with the tools that appear repeatedly in entry-level front-end job postings. Basic exposure to HTML, CSS, and JavaScript is a starting point, but employers often expect stronger comfort with frameworks, version control, and team-based workflows.
 
-Prioritize React, Git workflows, and deployment habits because they help show that you can contribute in a modern front-end environment. Learning these tools matters not only because they appear in job listings, but because they change how you structure components, manage revisions, and ship work in a more professional way.
+Prioritize React[^1], Git workflows, and deployment habits because they help show that you can contribute in a modern front-end environment. Learning these tools matters not only because they appear in job listings, but because they change how you structure components, manage revisions, and ship work in a more professional way.
 
-### Figure 1: Coursework exposure compared with common entry-level front-end job skills
+***Figure 1: Coursework exposure compared with common entry-level front-end job skills***
 
 ![UWB_vs_Frontend_Industry_Skills-SO_2025](https://i.imgur.com/Yfx6Mex.png)
 
-*Source line: Created using data collected from Stack Overflow 2025 annual developer survey[^1] and University of Washington Bothell course catalogs[^2].*
+*Source: Created using data collected from Stack Overflow 2025 annual developer survey[^2] and University of Washington Bothell course catalogs[^3].*
 
 ## Gain Experience Before You Feel Fully Ready
 
 Apply for internships, early-career programs, and smaller practical opportunities before you feel completely qualified. Waiting until you feel fully prepared often delays growth because experience itself is part of what builds readiness.
 
-Look beyond large summer internships alone. Campus jobs, smaller companies, part-time technical work, contract projects, and volunteer development work can all help you practice professional communication, deadlines, and collaboration. These experiences also make it easier to break the cycle where employers want experience before offering one.
+Look beyond large summer internships alone. Campus jobs, smaller companies, part-time technical work, contract projects, and volunteer development work[^4] can all help you practice professional communication, deadlines, and collaboration. These experiences also make it easier to break the cycle where employers want experience before offering one.
 
 ## Build Professional Visibility Early
 
@@ -55,9 +54,16 @@ Use their feedback to strengthen the quality of your preparation, not just to co
 
 ## Conclusion
 
-Following these best practices helps you graduate with stronger proof that you can contribute as a front-end software engineer. Portfolio quality, modern workflow knowledge, early experience, professional visibility, and strategic support all make your preparation more convincing to employers. Together, these practices move you closer to graduating with skills that are easier to demonstrate, explain, and apply in a real hiring process.
+Following these best practices helps you graduate with stronger proof that you can contribute as a front-end software engineer. Portfolio quality, modern workflow knowledge, early experience, professional visibility, and strategic support all make your preparation more convincing to employers. These practices combined move you closer to graduating with skills that are easier to demonstrate, explain, and apply in a real hiring process.
 
 ## References
 
-[^1]: [1]     Stack Overflow, "Stack Overflow Annual Developer Survey," [Online]. Available: https://survey.stackoverflow.co. [Accessed 13 April 2026].
-[^2]: [2] 	University of Washington, "UW BOTHELL COMPUTING & SOFTWARE SYSTEMS," [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 13 April 2026].
+[^1]:[1] 	Pearson, "React Foundations by Pearson," 10 March 2026. [Online]. Available: https://www.linkedin.com/learning/react-foundations-by-pearson/react-foundations-introduction?u=67682169. [Accessed 16 April 2026 ].
+
+[^2]:[2]     Stack Overflow, "Stack Overflow Annual Developer Survey," [Online]. Available: https://survey.stackoverflow.co. [Accessed 13 April 2026].
+
+[^3]:[3] 	  University of Washington, "UW BOTHELL COMPUTING & SOFTWARE SYSTEMS," [Online]. Available: https://www.washington.edu/students/crscatb/css.html. [Accessed 13 April 2026].
+
+[^4]:[4] 	Handshake, "Software Engineer Intern," [Online]. Available: https://uw.joinhandshake.com/job-search/10922093?employmentTypes=2&jobType=9&jobType=3&jobType=6. [Accessed 15 April 2026].
+
+[^5]:[5] 	Levels.fyi, "Front End Development Engineer, One MHS Software Controls and Science," [Online]. Available: https://www.levels.fyi/jobs/title/software-engineer/location/greater-seattle-area?locationSlug=united-states&searchText=front+end&jobId=81003808468935366. [Accessed 15 April 2026].
